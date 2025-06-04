@@ -1,0 +1,68 @@
+C:\Users\cauan\OneDrive\Área de Trabalho\LINGUAGENS FORMAIS E AUTOMATOS\AULA 24.04\Exercicio1-prova2\bin\Debug\net9.0-windows\Exercicio1-prova2.exe
+C:\Users\cauan\OneDrive\Área de Trabalho\LINGUAGENS FORMAIS E AUTOMATOS\AULA 24.04\Exercicio1-prova2\bin\Debug\net9.0-windows\Exercicio1-prova2.deps.json
+C:\Users\cauan\OneDrive\Área de Trabalho\LINGUAGENS FORMAIS E AUTOMATOS\AULA 24.04\Exercicio1-prova2\bin\Debug\net9.0-windows\Exercicio1-prova2.runtimeconfig.json
+C:\Users\cauan\OneDrive\Área de Trabalho\LINGUAGENS FORMAIS E AUTOMATOS\AULA 24.04\Exercicio1-prova2\bin\Debug\net9.0-windows\Exercicio1-prova2.dll
+C:\Users\cauan\OneDrive\Área de Trabalho\LINGUAGENS FORMAIS E AUTOMATOS\AULA 24.04\Exercicio1-prova2\bin\Debug\net9.0-windows\Exercicio1-prova2.pdb
+C:\Users\cauan\OneDrive\Área de Trabalho\LINGUAGENS FORMAIS E AUTOMATOS\AULA 24.04\Exercicio1-prova2\obj\Debug\net9.0-windows\Exercicio1-prova2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cauan\OneDrive\Área de Trabalho\LINGUAGENS FORMAIS E AUTOMATOS\AULA 24.04\Exercicio1-prova2\obj\Debug\net9.0-windows\Exercicio1-prova2.AssemblyInfoInputs.cache
+C:\Users\cauan\OneDrive\Área de Trabalho\LINGUAGENS FORMAIS E AUTOMATOS\AULA 24.04\Exercicio1-prova2\obj\Debug\net9.0-windows\Exercicio1-prova2.AssemblyInfo.cs
+C:\Users\cauan\OneDrive\Área de Trabalho\LINGUAGENS FORMAIS E AUTOMATOS\AULA 24.04\Exercicio1-prova2\obj\Debug\net9.0-windows\Exercicio1-prova2.csproj.CoreCompileInputs.cache
+C:\Users\cauan\OneDrive\Área de Trabalho\LINGUAGENS FORMAIS E AUTOMATOS\AULA 24.04\Exercicio1-prova2\obj\Debug\net9.0-windows\Exercicio1-prova2.dll
+C:\Users\cauan\OneDrive\Área de Trabalho\LINGUAGENS FORMAIS E AUTOMATOS\AULA 24.04\Exercicio1-prova2\obj\Debug\net9.0-windows\refint\Exercicio1-prova2.dll
+C:\Users\cauan\OneDrive\Área de Trabalho\LINGUAGENS FORMAIS E AUTOMATOS\AULA 24.04\Exercicio1-prova2\obj\Debug\net9.0-windows\Exercicio1-prova2.pdb
+C:\Users\cauan\OneDrive\Área de Trabalho\LINGUAGENS FORMAIS E AUTOMATOS\AULA 24.04\Exercicio1-prova2\obj\Debug\net9.0-windows\Exercicio1-prova2.genruntimeconfig.cache
+C:\Users\cauan\OneDrive\Área de Trabalho\LINGUAGENS FORMAIS E AUTOMATOS\AULA 24.04\Exercicio1-prova2\obj\Debug\net9.0-windows\ref\Exercicio1-prova2.dll
+C:\Users\cauan\OneDrive\Área de Trabalho\LINGUAGENS FORMAIS E AUTOMATOS\AULA 24.04\Exercicio1-prova2\obj\Debug\net9.0-windows\Exercicio1_prova2.Form1.resources
+C:\Users\cauan\OneDrive\Área de Trabalho\LINGUAGENS FORMAIS E AUTOMATOS\AULA 24.04\Exercicio1-prova2\obj\Debug\net9.0-windows\Exercicio1_prova2.Properties.Resources.resources
+C:\Users\cauan\OneDrive\Área de Trabalho\LINGUAGENS FORMAIS E AUTOMATOS\AULA 24.04\Exercicio1-prova2\obj\Debug\net9.0-windows\Exercicio1-prova2.csproj.GenerateResource.cache
+C:\Users\biel0\OneDrive\Área de Trabalho\automatos\prova2 de LFA\Exercicio1-prova2\bin\Debug\net9.0-windows\Exercicio1-prova2.exe
+C:\Users\biel0\OneDrive\Área de Trabalho\automatos\prova2 de LFA\Exercicio1-prova2\bin\Debug\net9.0-windows\Exercicio1-prova2.deps.json
+C:\Users\biel0\OneDrive\Área de Trabalho\automatos\prova2 de LFA\Exercicio1-prova2\bin\Debug\net9.0-windows\Exercicio1-prova2.runtimeconfig.json
+C:\Users\biel0\OneDrive\Área de Trabalho\automatos\prova2 de LFA\Exercicio1-prova2\bin\Debug\net9.0-windows\Exercicio1-prova2.dll
+C:\Users\biel0\OneDrive\Área de Trabalho\automatos\prova2 de LFA\Exercicio1-prova2\bin\Debug\net9.0-windows\Exercicio1-prova2.pdb
+C:\Users\biel0\OneDrive\Área de Trabalho\automatos\prova2 de LFA\Exercicio1-prova2\obj\Debug\net9.0-windows\Exercicio1_prova2.Form1.resources
+C:\Users\biel0\OneDrive\Área de Trabalho\automatos\prova2 de LFA\Exercicio1-prova2\obj\Debug\net9.0-windows\Exercicio1_prova2.Properties.Resources.resources
+C:\Users\biel0\OneDrive\Área de Trabalho\automatos\prova2 de LFA\Exercicio1-prova2\obj\Debug\net9.0-windows\Exercicio1-prova2.csproj.GenerateResource.cache
+C:\Users\biel0\OneDrive\Área de Trabalho\automatos\prova2 de LFA\Exercicio1-prova2\obj\Debug\net9.0-windows\Exercicio1-prova2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biel0\OneDrive\Área de Trabalho\automatos\prova2 de LFA\Exercicio1-prova2\obj\Debug\net9.0-windows\Exercicio1-prova2.AssemblyInfoInputs.cache
+C:\Users\biel0\OneDrive\Área de Trabalho\automatos\prova2 de LFA\Exercicio1-prova2\obj\Debug\net9.0-windows\Exercicio1-prova2.AssemblyInfo.cs
+C:\Users\biel0\OneDrive\Área de Trabalho\automatos\prova2 de LFA\Exercicio1-prova2\obj\Debug\net9.0-windows\Exercicio1-prova2.csproj.CoreCompileInputs.cache
+C:\Users\biel0\OneDrive\Área de Trabalho\automatos\prova2 de LFA\Exercicio1-prova2\obj\Debug\net9.0-windows\Exercicio1-prova2.dll
+C:\Users\biel0\OneDrive\Área de Trabalho\automatos\prova2 de LFA\Exercicio1-prova2\obj\Debug\net9.0-windows\refint\Exercicio1-prova2.dll
+C:\Users\biel0\OneDrive\Área de Trabalho\automatos\prova2 de LFA\Exercicio1-prova2\obj\Debug\net9.0-windows\Exercicio1-prova2.pdb
+C:\Users\biel0\OneDrive\Área de Trabalho\automatos\prova2 de LFA\Exercicio1-prova2\obj\Debug\net9.0-windows\Exercicio1-prova2.genruntimeconfig.cache
+C:\Users\biel0\OneDrive\Área de Trabalho\automatos\prova2 de LFA\Exercicio1-prova2\obj\Debug\net9.0-windows\ref\Exercicio1-prova2.dll
+C:\Users\Gustavo\Desktop\ProvaExer1\bin\Debug\net9.0-windows\Exercicio1-prova2.exe
+C:\Users\Gustavo\Desktop\ProvaExer1\bin\Debug\net9.0-windows\Exercicio1-prova2.deps.json
+C:\Users\Gustavo\Desktop\ProvaExer1\bin\Debug\net9.0-windows\Exercicio1-prova2.runtimeconfig.json
+C:\Users\Gustavo\Desktop\ProvaExer1\bin\Debug\net9.0-windows\Exercicio1-prova2.dll
+C:\Users\Gustavo\Desktop\ProvaExer1\bin\Debug\net9.0-windows\Exercicio1-prova2.pdb
+C:\Users\Gustavo\Desktop\ProvaExer1\obj\Debug\net9.0-windows\Exercicio1_prova2.Form1.resources
+C:\Users\Gustavo\Desktop\ProvaExer1\obj\Debug\net9.0-windows\Exercicio1_prova2.Properties.Resources.resources
+C:\Users\Gustavo\Desktop\ProvaExer1\obj\Debug\net9.0-windows\Exercicio1-prova2.csproj.GenerateResource.cache
+C:\Users\Gustavo\Desktop\ProvaExer1\obj\Debug\net9.0-windows\Exercicio1-prova2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\ProvaExer1\obj\Debug\net9.0-windows\Exercicio1-prova2.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\ProvaExer1\obj\Debug\net9.0-windows\Exercicio1-prova2.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\ProvaExer1\obj\Debug\net9.0-windows\Exercicio1-prova2.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\ProvaExer1\obj\Debug\net9.0-windows\Exercicio1-prova2.dll
+C:\Users\Gustavo\Desktop\ProvaExer1\obj\Debug\net9.0-windows\refint\Exercicio1-prova2.dll
+C:\Users\Gustavo\Desktop\ProvaExer1\obj\Debug\net9.0-windows\Exercicio1-prova2.pdb
+C:\Users\Gustavo\Desktop\ProvaExer1\obj\Debug\net9.0-windows\Exercicio1-prova2.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\ProvaExer1\obj\Debug\net9.0-windows\ref\Exercicio1-prova2.dll
+C:\Faculdade\QuintoSemestre\Linguagens Formais e Autômatos\Prova2LFA\ProvaExer1\bin\Debug\net9.0-windows\Exercicio1-prova2.exe
+C:\Faculdade\QuintoSemestre\Linguagens Formais e Autômatos\Prova2LFA\ProvaExer1\bin\Debug\net9.0-windows\Exercicio1-prova2.deps.json
+C:\Faculdade\QuintoSemestre\Linguagens Formais e Autômatos\Prova2LFA\ProvaExer1\bin\Debug\net9.0-windows\Exercicio1-prova2.runtimeconfig.json
+C:\Faculdade\QuintoSemestre\Linguagens Formais e Autômatos\Prova2LFA\ProvaExer1\bin\Debug\net9.0-windows\Exercicio1-prova2.dll
+C:\Faculdade\QuintoSemestre\Linguagens Formais e Autômatos\Prova2LFA\ProvaExer1\bin\Debug\net9.0-windows\Exercicio1-prova2.pdb
+C:\Faculdade\QuintoSemestre\Linguagens Formais e Autômatos\Prova2LFA\ProvaExer1\obj\Debug\net9.0-windows\Exercicio1_prova2.Form1.resources
+C:\Faculdade\QuintoSemestre\Linguagens Formais e Autômatos\Prova2LFA\ProvaExer1\obj\Debug\net9.0-windows\Exercicio1_prova2.Properties.Resources.resources
+C:\Faculdade\QuintoSemestre\Linguagens Formais e Autômatos\Prova2LFA\ProvaExer1\obj\Debug\net9.0-windows\Exercicio1-prova2.csproj.GenerateResource.cache
+C:\Faculdade\QuintoSemestre\Linguagens Formais e Autômatos\Prova2LFA\ProvaExer1\obj\Debug\net9.0-windows\Exercicio1-prova2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Faculdade\QuintoSemestre\Linguagens Formais e Autômatos\Prova2LFA\ProvaExer1\obj\Debug\net9.0-windows\Exercicio1-prova2.AssemblyInfoInputs.cache
+C:\Faculdade\QuintoSemestre\Linguagens Formais e Autômatos\Prova2LFA\ProvaExer1\obj\Debug\net9.0-windows\Exercicio1-prova2.AssemblyInfo.cs
+C:\Faculdade\QuintoSemestre\Linguagens Formais e Autômatos\Prova2LFA\ProvaExer1\obj\Debug\net9.0-windows\Exercicio1-prova2.csproj.CoreCompileInputs.cache
+C:\Faculdade\QuintoSemestre\Linguagens Formais e Autômatos\Prova2LFA\ProvaExer1\obj\Debug\net9.0-windows\Exercicio1-prova2.dll
+C:\Faculdade\QuintoSemestre\Linguagens Formais e Autômatos\Prova2LFA\ProvaExer1\obj\Debug\net9.0-windows\refint\Exercicio1-prova2.dll
+C:\Faculdade\QuintoSemestre\Linguagens Formais e Autômatos\Prova2LFA\ProvaExer1\obj\Debug\net9.0-windows\Exercicio1-prova2.pdb
+C:\Faculdade\QuintoSemestre\Linguagens Formais e Autômatos\Prova2LFA\ProvaExer1\obj\Debug\net9.0-windows\Exercicio1-prova2.genruntimeconfig.cache
+C:\Faculdade\QuintoSemestre\Linguagens Formais e Autômatos\Prova2LFA\ProvaExer1\obj\Debug\net9.0-windows\ref\Exercicio1-prova2.dll
